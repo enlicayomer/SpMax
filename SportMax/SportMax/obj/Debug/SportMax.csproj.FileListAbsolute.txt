@@ -1,0 +1,12 @@
+D:\SportMax\SportMax\SportMax\bin\Debug\SportMax.exe.config
+D:\SportMax\SportMax\SportMax\bin\Debug\SportMax.exe
+D:\SportMax\SportMax\SportMax\bin\Debug\SportMax.pdb
+D:\SportMax\SportMax\SportMax\obj\Debug\SportMax.csprojResolveAssemblyReference.cache
+D:\SportMax\SportMax\SportMax\obj\Debug\SportMax.anasayfa.resources
+D:\SportMax\SportMax\SportMax\obj\Debug\SportMax.Form1.resources
+D:\SportMax\SportMax\SportMax\obj\Debug\SportMax.Properties.Resources.resources
+D:\SportMax\SportMax\SportMax\obj\Debug\SportMax.csproj.GenerateResource.Cache
+D:\SportMax\SportMax\SportMax\obj\Debug\SportMax.exe
+D:\SportMax\SportMax\SportMax\obj\Debug\SportMax.pdb
+D:\SportMax\SportMax\SportMax\bin\Debug\MySql.Data.dll
+D:\SportMax\SportMax\SportMax\bin\Debug\MySql.Data.xml
